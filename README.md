@@ -14,6 +14,12 @@ opticDice is a dice rolling app designed for Vision OS, utilizing SwiftUI and Re
 - RealityKit: Apple's augmented reality framework for creating 3D experiences.
 - Vision OS: The operating system designed specifically for visually impaired users.
 
+## Example Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
+
 ## Installation
 
 1. Clone the repository:
